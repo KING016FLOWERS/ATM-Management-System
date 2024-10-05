@@ -12,7 +12,6 @@ The ATM Management System is a Java-based application that simulates an automate
   - Withdraw cash
   - Deposit cash
   - View transaction history
-  - 
 - **Database Management**: Uses MySQL to store user data and transaction records.
 - **User-Friendly Interface**: Designed with AWT Swing for a simple and intuitive UI.
 
