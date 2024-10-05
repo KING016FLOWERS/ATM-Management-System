@@ -1,8 +1,8 @@
-# ATM Management System
+# Banking Management System
 
 ## Overview
 
-The ATM Management System is a Java-based application that simulates an automated teller machine (ATM) using AWT Swing for the user interface and MySQL for database management. This project allows users to perform basic banking operations such as account creation, balance inquiry, cash withdrawal, and transaction history.
+The Banking Management System is a Java-based application that simulates an automated teller machine (ATM) using AWT Swing for the user interface and MySQL for database management. This project allows users to perform basic banking operations such as account creation, balance inquiry, cash withdrawal, and transaction history.
 
 ## Features
 
